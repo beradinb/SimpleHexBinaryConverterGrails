@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DESKTOP-CMAKNN9" name="converterassigment.ConverterControllerSpec" skipped="0" tests="4" time="4.663" timestamp="2017-03-11T23:04:47">
+  <properties />
+  <testcase classname="converterassigment.ConverterControllerSpec" name="Binary test return binary" time="4.52" />
+  <testcase classname="converterassigment.ConverterControllerSpec" name="Hex test return hex" time="0.011" />
+  <testcase classname="converterassigment.ConverterControllerSpec" name="Binary test string return error 400 " time="0.035" />
+  <testcase classname="converterassigment.ConverterControllerSpec" name="Hex test string return error 400 " time="0.006" />
+  <system-out><![CDATA[--Output from Binary test return binary--
+--Output from Hex test return hex--
+--Output from Binary test string return error 400 --
+--Output from Hex test string return error 400 --
+]]></system-out>
+  <system-err><![CDATA[--Output from Binary test return binary--
+--Output from Hex test return hex--
+--Output from Binary test string return error 400 --
+--Output from Hex test string return error 400 --
+]]></system-err>
+</testsuite>

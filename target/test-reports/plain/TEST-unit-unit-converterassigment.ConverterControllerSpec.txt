@@ -1,0 +1,19 @@
+Testsuite: converterassigment.ConverterControllerSpec
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.663 sec
+------------- Standard Output ---------------
+--Output from Binary test return binary--
+--Output from Hex test return hex--
+--Output from Binary test string return error 400 --
+--Output from Hex test string return error 400 --
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Binary test return binary--
+--Output from Hex test return hex--
+--Output from Binary test string return error 400 --
+--Output from Hex test string return error 400 --
+------------- ---------------- ---------------
+
+Testcase: Binary test return binary took 4.52 sec
+Testcase: Hex test return hex took 0.011 sec
+Testcase: Binary test string return error 400  took 0.035 sec
+Testcase: Hex test string return error 400  took 0.006 sec

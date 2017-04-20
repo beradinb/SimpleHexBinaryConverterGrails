@@ -1,0 +1,4 @@
+--Output from Binary test return binary--
+--Output from Hex test return hex--
+--Output from Binary test string return error 400 --
+--Output from Hex test string return error 400 --
